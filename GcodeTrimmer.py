@@ -1,3 +1,8 @@
+# GCodeTrimmer made by Ángel L.M. 17/01/2018
+# Special mention to StackOverflow as this script is basically merged copy-paste of several answered python programming questions.
+
+# Shared under a Creative Commons Attribution-ShareAlike 4.0 International License
+
 import sys
 import time
 
